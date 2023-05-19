@@ -3,13 +3,6 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img class="image" align="center" alt="Coding" width="400" src="https://cdn-images-1.medium.com/v2/resize:fit:720/0*41inHKnPhGb04HsO.gif" >
-<script>
-    .image{
-        display: flex;
-        align-items: center;
-    }
-
-</script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashu-tosh-singh&label=Profile%20views&color=0e75b6&style=flat" alt="ashu-tosh-singh" /> </p>
 
